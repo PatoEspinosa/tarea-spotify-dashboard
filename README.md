@@ -15,7 +15,6 @@ El dashboard permite seleccionar diferentes gráficas mediante un componente Dro
 
 - `spotify.csv`: base de datos utilizada.
 - `Actividad_Dashboards_y_Plotly`: notebook con el análisis exploratorio y las 10 gráficas.
-- `tareaapp_grafica.py`: archivo Python con el dashboard interactivo.
 - `README.md`: archivo con la descripción del proyecto, nombres y nuestras matrículas.
 
 ## Gráficas incluidas
